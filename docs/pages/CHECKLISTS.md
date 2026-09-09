@@ -6,6 +6,14 @@
 
 Program document checklists with file-size targets and links into compress, merge, and checker tools. They are planning helpers, not official IRCC document lists.
 
+### ✅ Checklists we provide
+
+Program checklists on [docs.getnorthpath.com](https://docs.getnorthpath.com):
+
+| Checklists |
+| :---: |
+| <a href="https://docs.getnorthpath.com/#checklists"><img src="../../assets/checklists/checklists-grid.jpg" width="600" alt="Express Entry, Study Permit, Spousal Sponsorship, Visitor Visa, Work Permit, Citizenship, OINP"></a> |
+
 ---
 
 ## Checklists on this site

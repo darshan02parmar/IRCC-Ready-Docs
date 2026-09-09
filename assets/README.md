@@ -30,3 +30,9 @@ Visuals for the public docs hub.
 | File | Used in | Covers |
 | --- | --- | --- |
 | `forms/forms-grid.png` | [docs/pages/FORMS.md](../docs/pages/FORMS.md) | IMM 5476, 0008, 5406, 5669, 1294, 5645 |
+
+## Checklist preview grid (`checklists/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `checklists/checklists-grid.jpg` | [docs/pages/CHECKLISTS.md](../docs/pages/CHECKLISTS.md) | Express Entry, Study Permit, Spousal, Visitor, Work/PGWP, Citizenship, OINP |
