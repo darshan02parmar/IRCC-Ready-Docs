@@ -11,6 +11,8 @@
 [![GetNorthPath](https://img.shields.io/badge/GetNorthPath-Parent-0B3D2E?style=flat-square)](https://www.getnorthpath.com)
 [![Languages](https://img.shields.io/badge/Languages-2-informational?style=flat-square)](docs/FEATURES.md#languages)
 
+![IRCC Ready Docs home](assets/home-hub.png)
+
 This repository is the **public information hub** for the product: what GetNorthPath is, what the toolkit does, and how tools, guides, forms, and workflows fit together. The live app is at [docs.getnorthpath.com](https://docs.getnorthpath.com).
 
 ---
@@ -39,6 +41,14 @@ Tools run **in your browser**. Application files are not uploaded to a GetNorthP
 | 🛡️ **Free to use** | No signup to run tools; helpers only, not legal advice |
 
 Word to PDF is **coming soon** and is not listed as a live tool.
+
+| Compress PDF to 4 MB | Flatten IMM Form |
+| --- | --- |
+| [![Compress PDF to 4 MB](assets/tool-compress-pdf.png)](https://docs.getnorthpath.com/compress-pdf-to-4mb) | [![Flatten IMM Form](assets/tool-flatten-imm.png)](https://docs.getnorthpath.com/flatten-imm-form) |
+
+| Canada Visa Photo | IRCC File Checker |
+| --- | --- |
+| [![Canada Visa Photo](assets/tool-visa-photo.png)](https://docs.getnorthpath.com/canada-visa-photo) | [![IRCC File Checker](assets/tool-file-checker.png)](https://docs.getnorthpath.com/ircc-file-checker) |
 
 ---
 
