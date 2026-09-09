@@ -14,7 +14,7 @@ Free in-browser tools on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
 | Core PDF & photo | Sign, edit, convert & check |
 | --- | --- |
-| [![Compress, merge, flatten, split, visa photo, crop, convert, rotate](../../assets/tools/tools-grid-1.png)](https://docs.getnorthpath.com/#tools) | [![e-Sign, edit, resize, Word to PDF, page numbers, compress image, file checker](../../assets/tools/tools-grid-2.png)](https://docs.getnorthpath.com/#tools) |
+| [![Compress, merge, flatten, split, visa photo, crop, convert, rotate](../../assets/tools-grid-1.png)](https://docs.getnorthpath.com/#tools) | [![e-Sign, edit, resize, Word to PDF, page numbers, compress image, file checker](../../assets/tools-grid-2.png)](https://docs.getnorthpath.com/#tools) |
 
 
 ---

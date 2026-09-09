@@ -12,7 +12,7 @@ Landing page on [docs.getnorthpath.com](https://docs.getnorthpath.com/):
 
 | Home |
 | :---: |
-| <a href="https://docs.getnorthpath.com/"><img src="../../assets/home/home-hub.jpg" width="600" alt="IRCC Ready Docs home: tools, templates, guides, IMM forms, checklists, countries, FAQ"></a> |
+| <a href="https://docs.getnorthpath.com/"><img src="../../assets/home-hub.jpg" width="600" alt="IRCC Ready Docs home: tools, templates, guides, IMM forms, checklists, countries, FAQ"></a> |
 
 </div>
 

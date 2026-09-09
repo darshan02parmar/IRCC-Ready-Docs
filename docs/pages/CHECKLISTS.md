@@ -14,7 +14,7 @@ Program checklists on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
 | Checklists |
 | :---: |
-| <a href="https://docs.getnorthpath.com/#checklists"><img src="../../assets/checklists/checklists-grid.jpg" width="600" alt="Express Entry, Study Permit, Spousal Sponsorship, Visitor Visa, Work Permit, Citizenship, OINP"></a> |
+| <a href="https://docs.getnorthpath.com/#checklists"><img src="../../assets/checklists-grid.jpg" width="600" alt="Express Entry, Study Permit, Spousal Sponsorship, Visitor Visa, Work Permit, Citizenship, OINP"></a> |
 
 </div>
 

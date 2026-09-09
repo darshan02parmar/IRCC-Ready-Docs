@@ -16,7 +16,7 @@ Free templates on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
 | Templates |
 | :---: |
-| <a href="https://docs.getnorthpath.com/#templates"><img src="../../assets/templates/templates-grid.jpg" width="600" alt="IMM 5476, IMM 0008, proof of funds, Express Entry, spousal, study permit, letter of explanation, visa photo, OINP, PR/citizenship"></a> |
+| <a href="https://docs.getnorthpath.com/#templates"><img src="../../assets/templates-grid.jpg" width="600" alt="IMM 5476, IMM 0008, proof of funds, Express Entry, spousal, study permit, letter of explanation, visa photo, OINP, PR/citizenship"></a> |
 
 </div>
 

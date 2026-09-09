@@ -14,7 +14,7 @@ Answer-first guides on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
 | Guides |
 | :---: |
-| <a href="https://docs.getnorthpath.com/#guides"><img src="../../assets/guides/guides-grid.png" width="600" alt="IRCC file size, formats, compress, merge, IMM forms, visa photo, PR photo, phone scan, best tools"></a> |
+| <a href="https://docs.getnorthpath.com/#guides"><img src="../../assets/guides-grid.png" width="600" alt="IRCC file size, formats, compress, merge, IMM forms, visa photo, PR photo, phone scan, best tools"></a> |
 
 </div>
 

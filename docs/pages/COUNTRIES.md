@@ -14,7 +14,7 @@ Country guides on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
 | Countries |
 | :---: |
-| <a href="https://docs.getnorthpath.com/#countries"><img src="../../assets/countries/countries-grid.jpg" width="600" alt="India, Philippines, China, Cameroon, Nigeria, France, Eritrea, Pakistan, United States"></a> |
+| <a href="https://docs.getnorthpath.com/#countries"><img src="../../assets/countries-grid.jpg" width="600" alt="India, Philippines, China, Cameroon, Nigeria, France, Eritrea, Pakistan, United States"></a> |
 
 </div>
 

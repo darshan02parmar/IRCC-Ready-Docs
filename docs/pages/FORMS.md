@@ -14,7 +14,7 @@ IMM form hubs on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
 | Forms |
 | :---: |
-| <a href="https://docs.getnorthpath.com/#forms"><img src="../../assets/forms/forms-grid.png" width="600" alt="IMM 5476, IMM 0008, IMM 5406, IMM 5669, IMM 1294, IMM 5645"></a> |
+| <a href="https://docs.getnorthpath.com/#forms"><img src="../../assets/forms-grid.png" width="600" alt="IMM 5476, IMM 0008, IMM 5406, IMM 5669, IMM 1294, IMM 5645"></a> |
 
 </div>
 

@@ -12,7 +12,7 @@ Full catalog on [docs.getnorthpath.com/northpath-docs-app](https://docs.getnorth
 
 | Toolkit hub |
 | :---: |
-| <a href="https://docs.getnorthpath.com/northpath-docs-app"><img src="../../assets/app/app-hub.jpg" width="600" alt="NorthPath Docs toolkit hub: tools, templates, checklists, forms, FAQ"></a> |
+| <a href="https://docs.getnorthpath.com/northpath-docs-app"><img src="../../assets/app-hub.jpg" width="600" alt="NorthPath Docs toolkit hub: tools, templates, checklists, forms, FAQ"></a> |
 
 </div>
 
