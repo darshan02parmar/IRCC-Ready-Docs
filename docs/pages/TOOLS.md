@@ -8,6 +8,16 @@ Each tool is its own free page. Processing runs in the browser. Application file
 
 Full toolkit: [https://docs.getnorthpath.com/northpath-docs-app](https://docs.getnorthpath.com/northpath-docs-app)
 
+### 🧰 Tools we provide
+
+Free in-browser tools on [docs.getnorthpath.com](https://docs.getnorthpath.com):
+
+| Core PDF & photo | Sign, edit, convert & check |
+| --- | --- |
+| ![Compress, merge, flatten, split, visa photo, crop, convert, rotate](../../assets/tools/tools-grid-1.png) | ![e-Sign, edit, resize, Word to PDF, page numbers, compress image, file checker](../../assets/tools/tools-grid-2.png) |
+
+[View more →](../../assets/)
+
 ---
 
 ## Live tools on this site

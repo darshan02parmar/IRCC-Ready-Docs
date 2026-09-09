@@ -1,6 +1,8 @@
 # Assets
 
-Live captures from [docs.getnorthpath.com](https://docs.getnorthpath.com) used in the root [README](../README.md).
+Visuals for the public docs hub.
+
+## Live page captures (README)
 
 | File | Source page |
 | --- | --- |
@@ -9,3 +11,10 @@ Live captures from [docs.getnorthpath.com](https://docs.getnorthpath.com) used i
 | `tool-flatten-imm.png` | [/flatten-imm-form](https://docs.getnorthpath.com/flatten-imm-form) |
 | `tool-visa-photo.png` | [/canada-visa-photo](https://docs.getnorthpath.com/canada-visa-photo) |
 | `tool-file-checker.png` | [/ircc-file-checker](https://docs.getnorthpath.com/ircc-file-checker) |
+
+## Tool priview  grids (`tools/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `tools/tools-grid-1.png` | [docs/pages/TOOLS.md](../docs/pages/TOOLS.md) | Compress, merge, flatten, split, visa photo, crop, convert, rotate |
+| `tools/tools-grid-2.png` | [docs/pages/TOOLS.md](../docs/pages/TOOLS.md) | e-Sign, edit, resize, Word to PDF, page numbers, compress image, file checker |
