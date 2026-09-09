@@ -6,6 +6,18 @@
 
 Document tips by source country (for example PCC, translations, local certificates). Each page links into File Checker and related tools. Not a substitute for country-specific embassy or IRCC instructions.
 
+### 🌍 Countries we cover
+
+Country guides on [docs.getnorthpath.com](https://docs.getnorthpath.com):
+
+<div align="center">
+
+| Countries |
+| :---: |
+| <a href="https://docs.getnorthpath.com/#countries"><img src="../../assets/countries/countries-grid.jpg" width="600" alt="India, Philippines, China, Cameroon, Nigeria, France, Eritrea, Pakistan, United States"></a> |
+
+</div>
+
 ---
 
 ## Country pages on this site

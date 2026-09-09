@@ -4,6 +4,18 @@
 
 The toolkit hub is the **all-in-one catalog**: live tools, templates, checklists, forms, and FAQ in one place so you can switch without hunting the home sections.
 
+### 🧭 Toolkit hub preview
+
+Full catalog on [docs.getnorthpath.com/northpath-docs-app](https://docs.getnorthpath.com/northpath-docs-app):
+
+<div align="center">
+
+| Toolkit hub |
+| :---: |
+| <a href="https://docs.getnorthpath.com/northpath-docs-app"><img src="../../assets/app/app-hub.jpg" width="600" alt="NorthPath Docs toolkit hub: tools, templates, checklists, forms, FAQ"></a> |
+
+</div>
+
 ---
 
 ## What you do here

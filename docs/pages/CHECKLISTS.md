@@ -10,9 +10,13 @@ Program document checklists with file-size targets and links into compress, merg
 
 Program checklists on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
+<div align="center">
+
 | Checklists |
 | :---: |
 | <a href="https://docs.getnorthpath.com/#checklists"><img src="../../assets/checklists/checklists-grid.jpg" width="600" alt="Express Entry, Study Permit, Spousal Sponsorship, Visitor Visa, Work Permit, Citizenship, OINP"></a> |
+
+</div>
 
 ---
 

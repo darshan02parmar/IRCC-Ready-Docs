@@ -36,3 +36,21 @@ Visuals for the public docs hub.
 | File | Used in | Covers |
 | --- | --- | --- |
 | `checklists/checklists-grid.jpg` | [docs/pages/CHECKLISTS.md](../docs/pages/CHECKLISTS.md) | Express Entry, Study Permit, Spousal, Visitor, Work/PGWP, Citizenship, OINP |
+
+## Country preview grid (`countries/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `countries/countries-grid.jpg` | [docs/pages/COUNTRIES.md](../docs/pages/COUNTRIES.md) | India, Philippines, China, Cameroon, Nigeria, France, Eritrea, Pakistan, United States |
+
+## Template preview grid (`templates/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `templates/templates-grid.jpg` | [docs/pages/TEMPLATES.md](../docs/pages/TEMPLATES.md) | IMM forms, proof of funds, checklists, LOE, visa photo, OINP, PR/citizenship |
+
+## App hub preview (`app/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `app/app-hub.jpg` | [docs/pages/APP.md](../docs/pages/APP.md) | Full toolkit hub at /northpath-docs-app |

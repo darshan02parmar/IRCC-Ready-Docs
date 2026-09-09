@@ -8,6 +8,18 @@ Free templates with a real download. Each page shows what to expect on upload an
 
 Templates are **not** official IRCC forms. Always use the current form from canada.ca when filing.
 
+### 📄 Templates we provide
+
+Free templates on [docs.getnorthpath.com](https://docs.getnorthpath.com):
+
+<div align="center">
+
+| Templates |
+| :---: |
+| <a href="https://docs.getnorthpath.com/#templates"><img src="../../assets/templates/templates-grid.jpg" width="600" alt="IMM 5476, IMM 0008, proof of funds, Express Entry, spousal, study permit, letter of explanation, visa photo, OINP, PR/citizenship"></a> |
+
+</div>
+
 ---
 
 ## Templates on this site
