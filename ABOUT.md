@@ -69,12 +69,12 @@ GetNorthPath is **not** IRCC, **not** the Government of Canada, and **not** a su
 
 ## Contact
 
-- [getnorthpath.com](https://www.getnorthpath.com)
-- [Contact / book](https://www.getnorthpath.com/contact)
-- [LinkedIn](https://www.linkedin.com/company/getnorthpath/)
-- [Instagram](https://www.instagram.com/get.northpath/)
-- [YouTube](https://www.youtube.com/@GetNorthPath)
-- [WhatsApp](https://wa.me/16475807535)
-- [Privacy](https://www.getnorthpath.com/privacy) · [Terms](https://www.getnorthpath.com/terms)
+- 🌐 [getnorthpath.com](https://www.getnorthpath.com)
+- 📞 [Contact / book](https://www.getnorthpath.com/contact)
+- 💼 [LinkedIn](https://www.linkedin.com/company/getnorthpath/)
+- 📸 [Instagram](https://www.instagram.com/get.northpath/)
+- ▶️ [YouTube](https://www.youtube.com/@GetNorthPath)
+- 💬 [WhatsApp](https://wa.me/16475807535)
+- 🔏 [Privacy](https://www.getnorthpath.com/privacy) · [Terms](https://www.getnorthpath.com/terms)
 
 More on the toolkit itself: [docs/PRODUCT.md](docs/PRODUCT.md)
