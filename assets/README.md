@@ -54,3 +54,9 @@ Visuals for the public docs hub.
 | File | Used in | Covers |
 | --- | --- | --- |
 | `app/app-hub.jpg` | [docs/pages/APP.md](../docs/pages/APP.md) | Full toolkit hub at /northpath-docs-app |
+
+## Home hub preview (`home/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `home/home-hub.jpg` | [docs/pages/HOME.md](../docs/pages/HOME.md) | Homepage at docs.getnorthpath.com |

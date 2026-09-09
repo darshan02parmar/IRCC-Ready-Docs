@@ -4,6 +4,18 @@
 
 The homepage is the **IRCC Ready Docs hub**. It introduces the free toolkit, links every major section, and answers common questions. No signup is required to open a tool.
 
+### 🏠 Home preview
+
+Landing page on [docs.getnorthpath.com](https://docs.getnorthpath.com/):
+
+<div align="center">
+
+| Home |
+| :---: |
+| <a href="https://docs.getnorthpath.com/"><img src="../../assets/home/home-hub.jpg" width="600" alt="IRCC Ready Docs home: tools, templates, guides, IMM forms, checklists, countries, FAQ"></a> |
+
+</div>
+
 ---
 
 ## What you do here
