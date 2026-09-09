@@ -2,6 +2,12 @@
 
 Visuals for the public docs hub.
 
+## Root README hero
+
+| File | Used in | Notes |
+| --- | --- | --- |
+| `readme-hero.jpg` | [README.md](../README.md) | Wide marketing hero; links to docs.getnorthpath.com |
+
 ## Live page captures (README)
 
 | File | Source page |

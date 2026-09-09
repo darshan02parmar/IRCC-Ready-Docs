@@ -38,20 +38,17 @@ Tools run **in your browser**. Application files are not uploaded to a GetNorthP
 | 🗣️ **2 languages** | English unprefixed; French at `/fr/…` |
 | 🛡️ **Free to use** | No signup to run tools; helpers only, not legal advice |
 
+### 🖼️ Live hub
 
-### 🖼️ Tool previews
+<div align="center">
 
-Live workbenches from [docs.getnorthpath.com](https://docs.getnorthpath.com):
+<a href="https://docs.getnorthpath.com/"><img src="assets/readme-hero.jpg" width="900" alt="Free IRCC Document Toolkit — Prepare smarter for your Canada journey"></a>
 
-| Compress PDF to 4 MB | Flatten IMM Form |
-| --- | --- |
-| [![Compress PDF to 4 MB](assets/tool-compress-pdf.png)](https://docs.getnorthpath.com/compress-pdf-to-4mb) | [![Flatten IMM Form](assets/tool-flatten-imm.png)](https://docs.getnorthpath.com/flatten-imm-form) |
+<br>
 
-| Canada Visa Photo | IRCC File Checker |
-| --- | --- |
-| [![Canada Visa Photo](assets/tool-visa-photo.png)](https://docs.getnorthpath.com/canada-visa-photo) | [![IRCC File Checker](assets/tool-file-checker.png)](https://docs.getnorthpath.com/ircc-file-checker) |
+[Browse all tools](https://docs.getnorthpath.com/#tools) · [Get a free template](https://docs.getnorthpath.com/#templates) · [Open the hub](https://docs.getnorthpath.com/)
 
-[View more →](assets/)
+</div>
 
 ---
 
