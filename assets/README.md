@@ -12,9 +12,15 @@ Visuals for the public docs hub.
 | `tool-visa-photo.png` | [/canada-visa-photo](https://docs.getnorthpath.com/canada-visa-photo) |
 | `tool-file-checker.png` | [/ircc-file-checker](https://docs.getnorthpath.com/ircc-file-checker) |
 
-## Tool priview  grids (`tools/`)
+## Tool preview grids (`tools/`)
 
 | File | Used in | Covers |
 | --- | --- | --- |
 | `tools/tools-grid-1.png` | [docs/pages/TOOLS.md](../docs/pages/TOOLS.md) | Compress, merge, flatten, split, visa photo, crop, convert, rotate |
 | `tools/tools-grid-2.png` | [docs/pages/TOOLS.md](../docs/pages/TOOLS.md) | e-Sign, edit, resize, Word to PDF, page numbers, compress image, file checker |
+
+## Guide preview grid (`guides/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `guides/guides-grid.png` | [docs/pages/GUIDES.md](../docs/pages/GUIDES.md) | File size, formats, compress, merge, IMM forms, visa/PR photo, phone scan, best tools |
