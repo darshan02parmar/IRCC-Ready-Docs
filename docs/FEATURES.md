@@ -125,7 +125,7 @@ Always download the current form from IRCC. See [pages/FORMS.md](pages/FORMS.md)
 | Full toolkit hub | [/northpath-docs-app](https://docs.getnorthpath.com/northpath-docs-app) |
 | HTML sitemap | [/sitemap](https://docs.getnorthpath.com/sitemap) |
 | FAQ | [/#faq](https://docs.getnorthpath.com/#faq) (`/faq` redirects here) |
-| Book a consult | GetNorthPath contact with UTM from the site |
+| Book a consult | [/contact#book](https://www.getnorthpath.com/contact#book) |
 
 Machine indexes: [/sitemap.xml](https://docs.getnorthpath.com/sitemap.xml), [/robots.txt](https://docs.getnorthpath.com/robots.txt), [/llms.txt](https://docs.getnorthpath.com/llms.txt).
 

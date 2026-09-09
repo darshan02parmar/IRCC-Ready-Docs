@@ -118,7 +118,7 @@ Index: [docs/README.md](docs/README.md)
 - 🧮 **OINP Calculator:** [oinp.getnorthpath.com](https://oinp.getnorthpath.com)
 - 📅 **AORTrack (PR timelines):** [track.getnorthpath.com](https://track.getnorthpath.com)
 - 📈 **CRS calculator:** [getnorthpath.com/tools/crs-calculator](https://www.getnorthpath.com/tools/crs-calculator)
-- 📞 **Contact:** [getnorthpath.com/contact?utm_source=ircc-ready-docs](https://www.getnorthpath.com/contact?utm_source=ircc-ready-docs)
+- 📞 **Contact:** [getnorthpath.com/contact#book](https://www.getnorthpath.com/contact#book)
 
 ### Legal (GetNorthPath policies)
 

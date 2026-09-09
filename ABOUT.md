@@ -70,7 +70,7 @@ GetNorthPath is **not** IRCC, **not** the Government of Canada, and **not** a su
 ## Contact
 
 - 🌐 [getnorthpath.com](https://www.getnorthpath.com)
-- 📞 [Contact / book](https://www.getnorthpath.com/contact)
+- 📞 [Contact / book](https://www.getnorthpath.com/contact#book)
 - 💼 [LinkedIn](https://www.linkedin.com/company/getnorthpath/)
 - 📸 [Instagram](https://www.instagram.com/get.northpath/)
 - ▶️ [YouTube](https://www.youtube.com/@GetNorthPath)

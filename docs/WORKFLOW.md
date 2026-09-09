@@ -75,4 +75,4 @@ Read: [Best free tools for IRCC documents](https://docs.getnorthpath.com/guides/
 
 - [FEATURES.md](FEATURES.md): full inventory
 - [pages/TOOLS.md](pages/TOOLS.md): tools hub README
-- Parent help: [free GetNorthPath consult](https://www.getnorthpath.com/contact?utm_source=ircc-ready-docs)
+- Parent help: [free GetNorthPath consult](https://www.getnorthpath.com/contact#book)
