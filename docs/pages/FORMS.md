@@ -6,6 +6,14 @@
 
 Hub pages for common IMM forms: what each form is for, how to prepare it, and which tools to use next (flatten, sign, file checker). Always download the **current** form from IRCC.
 
+### 📋 Forms we provide
+
+IMM form hubs on [docs.getnorthpath.com](https://docs.getnorthpath.com):
+
+| Forms |
+| --- |
+| <a href="https://docs.getnorthpath.com/#forms"><img src="../../assets/forms/forms-grid.png" width="480" alt="IMM 5476, IMM 0008, IMM 5406, IMM 5669, IMM 1294, IMM 5645"></a> |
+
 ---
 
 ## Form pages on this site

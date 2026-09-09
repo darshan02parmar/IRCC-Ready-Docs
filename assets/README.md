@@ -24,3 +24,9 @@ Visuals for the public docs hub.
 | File | Used in | Covers |
 | --- | --- | --- |
 | `guides/guides-grid.png` | [docs/pages/GUIDES.md](../docs/pages/GUIDES.md) | File size, formats, compress, merge, IMM forms, visa/PR photo, phone scan, best tools |
+
+## Form preview grid (`forms/`)
+
+| File | Used in | Covers |
+| --- | --- | --- |
+| `forms/forms-grid.png` | [docs/pages/FORMS.md](../docs/pages/FORMS.md) | IMM 5476, 0008, 5406, 5669, 1294, 5645 |
