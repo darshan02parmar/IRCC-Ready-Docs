@@ -10,7 +10,9 @@ Answer-first articles for IRCC upload rules, formats, merge failures, and photo 
 
 Answer-first guides on [docs.getnorthpath.com](https://docs.getnorthpath.com):
 
-[![IRCC file size, formats, compress, merge, IMM forms, visa photo, PR photo, phone scan, best tools](../../assets/guides/guides-grid.png)](https://docs.getnorthpath.com/#guides)
+| Guides |
+| --- |
+| [![IRCC file size, formats, compress, merge, IMM forms, visa photo, PR photo, phone scan, best tools](../../assets/guides/guides-grid.png)](https://docs.getnorthpath.com/#guides) |
 
 ---
 
